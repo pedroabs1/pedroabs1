@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedroabs1
-- 👀 I’m interested in developing software for Android, PCs, in autohotkey, Java, Python, Kotlin, GO, html...
-- 🌱 I’m currently learning Autohotkey Java, Mobile developing and Python
+- 👀 I’m interested in developing software for Android, PCs, in Autohotkey, Java, Python, Javascript, HTML, CSS...
+- 🌱 I’m currently learning to improve my coding skills
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me pedroabs1@gmail.com
 
